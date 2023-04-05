@@ -1,0 +1,2 @@
+# sinemtopbasklu
+ Çoğunluk Elemanı
